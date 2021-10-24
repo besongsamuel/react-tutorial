@@ -1,2 +1,3 @@
 # react-tutorial
-Simple react tutorial project
+
+Simple react tutorial project for snyk
